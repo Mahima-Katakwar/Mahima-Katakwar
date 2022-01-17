@@ -9,7 +9,7 @@ Something about me:
 - 👯 I’m looking to collaborate on open source projects in year 2020.
 - 🤔 I’m looking for job opportuniities
 - 💬 Ask me about my projects
-- 📫 How to reach me: email id: mahimakatakwar598@gmail.com | Linkedin - www.linkedin.com/in/mahima-katakwar-7b9005159
+- 📫 How to reach me: email id: mahimakatakwar598@gmail.com | Linkedin - https://www.linkedin.com/in/mahima-katakwar/
 
 ###
 
