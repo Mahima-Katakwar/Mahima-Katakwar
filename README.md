@@ -6,7 +6,7 @@ Something about me:
 
 - 🔭 I’m currently working on different web as well as mobile technologies.
 - 🌱 Learning & Coding everyday, currently learning to master React Native and ASP.NET MVC5.
-- 👯 I’m looking to collaborate on open source projects in year 2020.
+- 👯 I’m looking to collaborate on open source projects in year 2022.
 - 🤔 I’m looking for job opportuniities
 - 💬 Ask me about my projects
 - 📫 How to reach me: email id: mahimakatakwar598@gmail.com | Linkedin - https://www.linkedin.com/in/mahima-katakwar/
